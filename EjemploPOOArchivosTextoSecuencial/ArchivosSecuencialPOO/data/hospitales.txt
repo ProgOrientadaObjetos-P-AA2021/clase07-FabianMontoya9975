@@ -1,0 +1,24 @@
+Hospital Isidro Ayora;50;2340000,00
+Hospital San Agustín;42;5600000,00
+Hospital Abendaño;35;1800000,00
+Hospital Isidro Ayora;50;2340000,00
+Hospital San Agustín;42;5600000,00
+Hospital Abendaño;35;1800000,00
+Hospital Isidro Ayora;50;2340000,00
+Hospital San Agustín;42;5600000,00
+Hospital Abendaño;35;1800000,00
+Hospital Isidro Ayora;50;2340000,00
+Hospital San Agustín;42;5600000,00
+Hospital Abendaño;35;1800000,00
+Hospital Isidro Ayora;50;2340000,00
+Hospital San Agustín;42;5600000,00
+Hospital Abendaño;35;1800000,00
+Hospital Isidro Ayora;50;2340000,00
+Hospital San Agustín;42;5600000,00
+Hospital Abendaño;35;1800000,00
+Hospital Isidro Ayora;50;2340000,00
+Hospital San Agustín;42;5600000,00
+Hospital Abendaño;35;1800000,00
+Hospital Isidro Ayora;50;2340000,00
+Hospital San Agustín;42;5600000,00
+Hospital Abendaño;35;1800000,00
